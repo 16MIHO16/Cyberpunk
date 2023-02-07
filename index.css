@@ -1,0 +1,442 @@
+body{
+    padding-left: 27.84px;
+    padding-right: 27.84px;
+    background: linear-gradient(180deg, #060307 23.04%, #090A26 55.93%); 
+}
+
+main{
+    background-image: url(images/Zhang-Yiwei-CGI-women-short-hair-purple-hair-blue-eyes-2185487-wallhere\ 1.png);
+}
+
+header{
+    display: flex;
+}
+
+.mainLogo{
+    margin-left: 63px;
+    width: 178px;
+    height: 48px;
+    margin-top: 21px;
+}
+
+header .navigation{
+    margin-left: 126.16px;
+    display: flex;
+    margin-top: 35px;
+}
+
+header .navigation ul il a{
+    color: #FFFFFF;
+}
+
+header .navigation ul il{
+    color: #FFFFFF;
+    margin-right: 55px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    cursor: pointer;
+}
+
+ul il:hover{
+    opacity: 0.89;
+}
+
+ul il:active{
+    opacity: 0.81;
+}
+
+header .navigation .icon{
+    width: 20.31px;
+    height: 20.31px;
+    margin-right: 28.69px;
+    cursor: pointer;
+}
+
+header .navigation .icon:hover{
+    opacity: 0.87;
+}
+
+header .navigation .icon:active{
+    opacity: 0.80;
+}
+
+header button{
+    width: 150px;
+    height: 52px;
+    color: black;
+    margin-top: 19px;
+    font-size: 18px;
+    font-family: 'Montserrat';
+    border: none;
+    background-color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+/* header დასასრული */
+
+main h1{
+    font-size: 70px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    max-width: 1081px;
+    margin-top: 273px;
+    margin-left: 179px;
+    text-align: center;
+    line-height: 85.33px; 
+}
+
+main p{
+    margin-top: 40px;
+    margin-left: 376px;
+    font-family: 'Montserrat';
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 29.26px;
+}
+
+main .buttons{
+    margin-left: 491.55px;
+}
+
+main .buttons button{
+    margin-top: 40px;
+    margin-right: 42px;
+    margin-bottom: 352px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 33px;
+    padding-right: 33px;
+    font-size: 18px;
+    font-family: 'Montserrat';
+    line-height: 21.94px;
+    border: none;
+    height: 48px;
+    cursor: pointer;
+}
+
+main .buttons .button1{
+    width: 220px;
+    background-color: #5604AD;
+    color: #FFFFFF;
+}
+
+main .buttons .button2{
+    width: 194px;
+    background-color: #FFFFFF;
+    color: black;
+}
+
+
+
+/* main დასასრული */
+
+.container p{
+    margin-left: 470px;
+    margin-top: 124px;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    line-height: 19.5px;
+}
+
+.container .companies{
+    margin-top: 24px;
+    margin-bottom: 182px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    padding-right: 189px;
+}
+
+.container .companies .facebookLogo{
+    margin-top: 12px;
+    width: 170px;
+    height: 151px;
+}
+
+.container .companies .googleLogo{
+    width: 103px;
+    height: 103px;
+}
+
+/* container დასასრული */
+
+.ourNewImplants .title{
+    margin-left: 587px;
+    margin-bottom: 140px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-Size: 24px;
+    line-height:29.26px;
+}
+
+.ourNewImplants .newImplants{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 110px;
+    margin-right: 80px;
+}
+
+.ourNewImplants .newImplants div{
+    width: 405px;
+    height: 500px;
+    border: 4px solid #E15CF2;
+}
+
+.ourNewImplants .newImplants div img{
+    margin-top: 30px;
+    margin-bottom: 25px;
+    margin-left: 94px;
+    width: 226px;
+    height: 230px;
+}
+
+.ourNewImplants .newImplants div h1{
+    font-size: 18px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    margin-left: 115px;
+    margin-bottom: 49px;
+}
+
+.ourNewImplants .newImplants div p{
+    margin-left: 70px;
+    max-width: 250px;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+/* new implants დასასრული */
+
+.ourPopularImplants .title{
+    margin-top: 140px;
+    margin-left: 540px;
+    margin-bottom: 140px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-Size: 24px;
+    line-height:29.26px;
+}
+
+.ourPopularImplants .popularImplants{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 110px;
+    margin-right: 80px;
+}
+
+.ourPopularImplants .popularImplants div{
+    width: 405px;
+    height: 500px;
+    border: 4px solid #E15CF2;
+}
+
+.ourPopularImplants .popularImplants div img{
+    margin-top: 30px;
+    margin-bottom: 25px;
+    margin-left: 94px;
+    width: 226px;
+    height: 230px;
+}
+
+.ourPopularImplants .popularImplants div h1{
+    font-size: 18px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    margin-left: 115px;
+    margin-bottom: 49px;
+}
+
+.ourPopularImplants .popularImplants div p{
+    margin-left: 70px;
+    max-width: 250px;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+/* popular implants დასასრული */
+
+.whoAreWe{
+    margin-bottom: 170px;
+}
+
+.whoAreWe h1{
+    margin-top: 140px;
+    margin-left: 640px;
+    margin-bottom: 140px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-Size: 24px;
+    line-height:29.26px;
+}
+
+.whoAreWe .answer{
+    background-image: url(images/artwork-glasses-glowing-cyberpunk-Cyberpunk-2077-looking-at-viewer-1897613-wallhere\ 1.png);
+    height: 497px;
+    width: 1410px;
+    padding-left: 28px;
+    padding-top: 87px;
+}
+
+.whoAreWe .answer p{
+    margin-left: 998px;
+    max-width: 320px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-align: center;
+    line-height: 39px;
+}
+
+.whoAreWe .answer button{
+    width: 194px;
+    height: 48px;
+    border: none;
+    background-color: #5604AD;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-right: 33px;
+    padding-left: 33px;
+    cursor: pointer;
+    margin-top: 54px;
+    margin-left: 1060px;
+}
+
+button:hover{
+    opacity: 0.91;
+}
+
+button:active{
+    opacity: 0.86;
+}
+
+/* who are we დასასრული */
+
+.ourGroupMembers .title{
+    margin-top: 140px;
+    margin-left: 600px;
+    margin-bottom: 140px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-Size: 24px;
+    line-height:29.26px;   
+}
+
+.ourGroupMembers .groupMembers{
+    margin-bottom: 130px;
+    padding-left: 92px;
+    padding-right: 148px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.ourGroupMembers .groupMembers div h1{
+    margin-top: 80px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-Size: 24px;
+    line-height:29.26px;   
+}
+
+.ourGroupMembers .groupMembers div p{
+    margin-top: 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-size: 16px;
+}
+
+/* ourGroupMembers დასასრული */
+ 
+hr{
+    border: 1px #502356 solid;
+}
+
+.footer{
+    display: flex;
+    margin-bottom: 105px;
+}
+
+footer .Text{
+    margin-top: 120px;
+    margin-left: 70px;
+}
+
+footer .Text p{
+    max-width: 391px;
+    line-height: 14.63px;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    margin-top: 32px;
+    margin-left: 36px;
+}
+
+footer .Text .icons{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 36px;
+    margin-top: 34px;
+    width: 150px;
+}
+
+footer .navigation{
+    display: flex;
+    margin-left: 159px;
+    margin-top: 105px;
+}
+
+footer .navigation nav{
+    margin-right: 150px;
+}
+
+footer nav ul h1{
+    font-size: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    line-height: 19.5px;
+}
+
+footer nav ul il{
+    text-align: center;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    line-height: 19.5px;   
+    margin-top: 22px;
+    display: block;
+    cursor: pointer;
+}
+
+footer .lastFooter{
+    margin-top: 34px;
+    margin-bottom: 30px;
+    margin-left: 94px;
+    display: flex;
+}
+
+footer .lastFooter p{
+    font-size: 14px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    margin-right: 50px;
+}
+
+footer .lastFooter .lastFooterText{
+    margin-left: 492px;
+    display: flex;
+    justify-content: space-between;
+}
